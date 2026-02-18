@@ -867,6 +867,9 @@ dependencies = [
 [[package]]
 name = "code"
 version = "0.1.0"
+dependencies = [
+ "tokio",
+]
 
 [[package]]
 name = "codespan-reporting"
